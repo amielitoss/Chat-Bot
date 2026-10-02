@@ -1,0 +1,18 @@
+      .app-container{
+        max-width: 600px;
+        height: 100vh;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+        color: gray;
+        text-align: center;
+      }
+      
+      .welcome-message {
+        flex-grow: 1;
+        text-align: center;
+      }
+
+    
+

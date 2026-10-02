@@ -1,0 +1,14 @@
+      .chat-messages-container{
+        flex-grow: 1;
+        border-radius: 10px;
+        margin-bottom: 10px;
+        margin-top: 20px;
+        overflow: scroll;
+        scrollbar-width: none;
+        background-color: rgb(255, 255, 255);
+      }
+
+      .loading-img{
+        height: 40px;
+        margin: -15px;
+      }
